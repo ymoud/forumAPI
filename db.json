@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John",
+            "surname": "Doe",
+            "age": 22,
+            "gender": "m",
+            "nationality": "Australian"
+        },
+        {
+            "id": 2,
+            "name": "Elias",
+            "surname": "Kane",
+            "age": 53,
+            "gender": "m",
+            "nationality": "British"
+        },
+        {
+            "id": 3,
+            "name": "Kelsey",
+            "surname": "Morrow",
+            "age": 17,
+            "gender": "f",
+            "nationality": "Estonian"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Some info about me",
+            "body": "My name is John and I live in Sydney, Australia.",
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "title": "A sample post",
+            "body": "This is a sample post",
+            "userId": 2
+        },
+        {
+            "id": 3,
+            "title": "My First Post",
+            "body": "Hello there, this is my first post!",
+            "userId": 3
+        }
+    ]
+}
