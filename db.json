@@ -44,5 +44,28 @@
             "body": "Hello there, this is my first post!",
             "userId": 3
         }
+    ],
+    "accounts": [
+        {
+            "id": 1,
+            "accountNo": "23456789081",
+            "availableAmount": 500,
+            "beneficiaryName ": "Papadopoulos Ioannis",
+            "currency": "EUR"
+        },
+        {
+            "id": 2,
+            "accountNo": "32879876782",
+            "availableAmount": 100000,
+            "beneficiaryName ": "Papadopoulou Maria",
+            "currency": "USD"
+        },
+        {
+            "id": 3,
+            "accountNo": "42875876599",
+            "availableAmount": 800000,
+            "beneficiaryName ": "Papadopoulou Vicky",
+            "currency": "EUR"
+        }
     ]
 }
